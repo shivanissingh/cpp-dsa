@@ -28,7 +28,7 @@ git commit -m "Message" :- To Commit the Changes
 
 git push origin master/main :- To Push the Local Changes to GitHub
 
-git push -u orign master/main :- Sets up Upstream Branch for Current Local Directory 
+git push -u origin master/main :- Sets up Upstream Branch for Current Local Directory 
 
 git pull origin master : To Fetch the Latest Changes
 
@@ -40,7 +40,7 @@ git checkout :- Used to Switch Branches
 
 origin/main :- origin is the default name for Remote Repository , main is the branch in Remote Repository & this says Local Branch should Track it
 
-git branch -M <branch name> :- Rename the Cirrent Branch 
+git branch -M <branch name> :- Rename the Current Branch 
 
 git branch :- To check all the branches & marks * to the Current Branch
 
