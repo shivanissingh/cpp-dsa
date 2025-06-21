@@ -32,7 +32,7 @@ git push -u origin master/main :- Sets up Upstream Branch for Current Local Dire
 
 git pull origin master : To Fetch the Latest Changes
 
-git checkout -b main origin/main :- Used to Create a New local branch main , Switch to it to make it Current Branch & Set it to Track origin/main that is the branch in remote repository 
+git checkout -b main origin/main :- Used to Create a New local branch main , Switch to it to make it Current Branch & Set it to Track origin/main that is the branch in remote repository  
 
 git checkout :- Used to Switch Branches
 
