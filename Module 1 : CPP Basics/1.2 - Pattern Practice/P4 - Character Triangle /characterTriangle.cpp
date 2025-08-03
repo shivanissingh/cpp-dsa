@@ -20,5 +20,5 @@ int main() {
         ch++ ; // Increment the character for the next row
         cout << endl ; // Move to the next line after each row
     }
-    
+    return 0 ; 
 }

@@ -16,4 +16,5 @@ int main() {
         }
         cout << endl ; // Move to the next line after each row
     }
+    return 0 ;
 }
