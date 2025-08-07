@@ -39,8 +39,6 @@ int main() {
 
     }
 
-    // cout << endl ; // Move to next line for Bottom Half
-
     // Bottom Half - consist of 2 Triangles
     // Bottom Half Outer Loop = number of lines or rows = n - 1
     for(int i = 0 ; i < n - 1 ; i++) {
