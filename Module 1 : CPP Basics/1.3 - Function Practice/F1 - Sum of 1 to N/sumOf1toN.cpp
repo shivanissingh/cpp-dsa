@@ -24,7 +24,7 @@ int approach2(int n) {
 
     // Loop from 1 to n
     for(int i = 1 ; i <=n ; i++) {
-        sum = sum + i ;
+        sum += i ;
     }
 
     return sum ;
